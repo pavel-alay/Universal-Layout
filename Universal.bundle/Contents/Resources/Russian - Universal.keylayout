@@ -315,13 +315,13 @@
 			<key code="36" output="&#x000D;"/>
 			<key code="37" output="”"/>
 			<key code="38" output="„"/>
-			<key code="39" output="’"/>
+			<key code="39" output="&#x0027;"/>
 			<key code="40" output="“"/>
-			<key code="41" output="‘"/>
+			<key code="41" output="ё"/>
 			<key code="42" output="ї"/>
 			<key code="43" output="«"/>
 			<key code="44" output="…"/>
-			<key code="45" output=""/>
+			<key code="45" output="~"/>
 			<key code="46" output="ъ"/>
 			<key code="47" output="»"/>
 			<key code="48" output="&#x0009;"/>
