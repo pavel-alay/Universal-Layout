@@ -8,6 +8,15 @@
 	<string>Universal</string>
 	<key>CFBundleVersion</key>
 	<string>1.6</string>
+	<key>KLInfo_English - Colemak</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>me.tonsky.keyboardlayout.universal.english-colemak</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
 	<key>KLInfo_English - Universal</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
